@@ -15,6 +15,5 @@ git pull origin main
 
 echo "Hello, Git!" > hello.txt
 
-
 git add hello.txt  
 git commit -m "Add hello.txt with a greeting"
